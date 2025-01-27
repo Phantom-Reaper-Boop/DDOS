@@ -15,8 +15,8 @@ def display_logo():
 
 # Authorization function
 def authorize():
-    valid_username = "admin"  # Set your username here
-    valid_password = "securepass123"  # Set your password here
+    valid_username = "PHANTOM"  # Set your username here
+    valid_password = "REAPER"  # Set your password here
 
     print("Authentication required.")
     username = input("Enter username: ").strip()
